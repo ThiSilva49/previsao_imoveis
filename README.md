@@ -26,12 +26,12 @@
 
 <h3>Distribuição dos Preços dos Imóveis</h3>
 <p align="center">
-  <img src="distribuicao_precos.png" width="600">
+  <img src="previsao-imoveis\figuras\distribuicao_precos.png" width="600">
 </p>
 
 <h3>Mapa de Calor das Correlações</h3>
 <p align="center">
-  <img src="heatmap_correlacao.png" width="600">
+  <img src="previsao-imoveis\figuras\heatmap_correlacao.png" width="600">
 </p>
 
 ---
